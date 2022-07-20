@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "inkkeys-backups")(type "KiCad")(uri "E:/Onedrive/Onedrive_Files/Documentos/GitHub/inkkeys/kicad/inkkeys-backups")(options "")(descr ""))
+  (lib (name "Boards")(type "KiCad")(uri "E:/Onedrive/Libraries/SparkFun-KiCad-Libraries-master(1)/SparkFun-KiCad-Libraries-master/Footprints/Boards.pretty")(options "")(descr ""))
+)
